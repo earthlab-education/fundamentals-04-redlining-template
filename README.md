@@ -1,8 +1,8 @@
-# Species Distribution Coding Challenge
+# Redlining Coding Challenge
 
-To complete this assignment on GitHub Codespaces:
-  1. Open the notebooks in GitHub Codespaces by clicking the Code button > Codespaces tab > Open new Codespace on main
-  2. Wait for the Codespace to load - this can take a few minutes the first time
+To complete this assignment:
+  1. Clone this repository to your computer using GitHub Desktop or VSCode
+  2. Open the repository in VSCode
   3. Complete the notebook(s)
   4. Use the GitHub tab in your Codespace to commit AND sync your changes
 
